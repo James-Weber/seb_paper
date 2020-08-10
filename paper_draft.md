@@ -1,4 +1,4 @@
-SH, and PTG, JMW, Christop Knote?, ATA in some order
+SH, and PTG, JMW, Christop Knote?, ATA in some order - JMW suggests adding YMS (lot of help initially and throughout) 
 
 ## Abstract
 * making use of the ATOM data to examine effect of chemical mechanisms
